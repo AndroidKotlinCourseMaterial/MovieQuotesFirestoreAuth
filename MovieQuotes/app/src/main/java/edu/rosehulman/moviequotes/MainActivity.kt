@@ -1,4 +1,4 @@
-package edu.rosehulman.boutell.moviequotes
+package edu.rosehulman.moviequotes
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,11 +6,8 @@ import android.provider.Settings
 import android.support.design.widget.FloatingActionButton
 import android.support.v7.app.AlertDialog
 import android.support.v7.app.AppCompatActivity
-import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
-import com.firebase.ui.auth.AuthUI
-import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(),

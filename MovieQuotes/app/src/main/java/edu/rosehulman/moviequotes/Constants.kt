@@ -1,4 +1,4 @@
-package edu.rosehulman.boutell.moviequotes
+package edu.rosehulman.moviequotes
 
 // Helpful to use with debugging.
 object Constants {

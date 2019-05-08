@@ -21,4 +21,6 @@
     <string name="add_edit_dialog_hint_quote">Enter quote</string>
     <string name="add_edit_dialog_hint_movie">Enter movie</string>
     <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="icon">Icon</string>
 </resources>

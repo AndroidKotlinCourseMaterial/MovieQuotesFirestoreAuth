@@ -1,4 +1,4 @@
-package edu.rosehulman.boutell.moviequotes
+package edu.rosehulman.moviequotes
 
 import android.annotation.SuppressLint
 import android.content.Context

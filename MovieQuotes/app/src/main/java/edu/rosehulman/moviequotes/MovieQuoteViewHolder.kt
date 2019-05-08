@@ -1,4 +1,4 @@
-package edu.rosehulman.boutell.moviequotes
+package edu.rosehulman.moviequotes
 
 import android.graphics.Color
 import android.support.v4.content.ContextCompat

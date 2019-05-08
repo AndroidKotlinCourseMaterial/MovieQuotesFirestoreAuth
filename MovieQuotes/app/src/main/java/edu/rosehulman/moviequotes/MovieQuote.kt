@@ -1,4 +1,4 @@
-package edu.rosehulman.boutell.moviequotes
+package edu.rosehulman.moviequotes
 
 import com.google.firebase.Timestamp
 import com.google.firebase.firestore.DocumentSnapshot
